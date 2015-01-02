@@ -1,0 +1,142 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	min-width: 320px;
+	max-width: 800px;
+	background: #00ccff;
+    background:url(../img/bg.jpg); 
+     filter:alpha(opacity=70);
+     -moz-opacity:0.70;
+     -khtml-opacity: 0.70;
+     opacity:0.70;	
+	font-size: 15px;
+	color:#3a3935;
+}
+
+a:hover ,
+a:active ,
+a:hover,
+a{
+		font-size: 20px;
+	color:#3a3935;
+	text-decoration:none;
+}
+
+.strong{
+	color:#FF6347;
+}
+
+h1,
+h2,
+h3{
+	color:#00b0d9;
+}
+
+
+.twitter-share-button{
+	margin-left: 5px;
+}
+
+header,
+footer,
+article{
+	margin: 5px;
+	padding: 5px;
+	background:#fff;
+	border: 1px solid #00b0d9;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+}
+
+header{
+	margin-top:10px;
+	font-size: 15px !important;
+	color:#3a3935!important;
+}
+
+article{
+
+}
+
+article ul{
+	border-top:2px dotted #3a3935;
+	border-left:2px solid #3a3935;
+}
+
+article ul li{
+	list-style-type: none;
+	border-bottom:2px dotted #3a3935;
+	height:50px;
+	line-height: 300%;
+}
+
+article a li{
+    background:url(../img/icon1.png) no-repeat right center;  
+}
+
+
+article img {
+	width: 100%;
+	min-width: 200px;
+	max-width: 800px;
+}
+
+footer{
+	font-size: 10px;
+}
+
+footer span{
+	font-size: 15px !important;
+}
+
+table{
+	border-collapse: collapse;
+	width:100%;
+	border:0px solid #3a3935;
+}
+
+th,th,td{
+	padding:3px;
+	height:50px;
+	border:0px solid #ffffff;
+}
+
+td{
+	border-bottom:1px solid #3a3935;
+	border-right:1px solid #3a3935;
+	border-left:0px solid #3a3935;
+	border-top:1px solid #3a3935;
+}
+
+tr{
+	border-right:1px solid #3a3935;
+	border-left:0px solid #3a3935;
+	border-top:0px solid #3a3935;
+	border-bottom:0px solid #3a3935;
+}
+
+th{
+	border-top:0px solid #3a3935;
+	border-left:0px solid #3a3935;
+	border-right:1px solid #3a3935;
+	border-bottom:0px solid #3a3935;
+}
+
+
+.kou{
+	min-width: 100px;
+	max-width: 120px;
+	
+}
+

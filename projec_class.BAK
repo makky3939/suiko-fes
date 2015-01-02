@@ -1,0 +1,158 @@
+<!doctyp html> <!--Copyright 2012 茨城県立水戸工業高等学校 All Rights Reserved.-->
+
+<html>
+
+<head>
+		<title>クラス企画：水工祭</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/headfoot.js"></script>
+</head>
+
+<body>
+<script>header();</script>
+
+<article>
+<h2>クラス企画</h2>
+
+<hr>
+<h3>1年生</h3>
+
+<table>
+<tr><th>工業化学　お化け屋敷<br>場所：工化1教室(本館４階)</th></tr>
+<tr><td><img src="img/s1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械1A　喫茶店<br>場所：機1A教室(本館４階)</th></tr>
+<tr><td><img src="img/ma1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械1B　展示企画<br>場所：機1B教室(本館４階)</th></tr>
+<tr><td><img src="img/mb1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気1A　展示企画<br>場所：電1A教室(本館４階)</th></tr>
+<tr><td><img src="img/ea1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気1B　遊技場<br>場所：電1B教室(本館４階)</th></tr>
+<tr><td><img src="img/eb1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>情報技術科　縁日<br>場所：情報1教室(本館４階)</th></tr>
+<tr><td><img src="img/c1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>土木科　休憩所<br>場所：土木1教室(本館４階)</th></tr>
+<tr><td><img src="img/c1c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>建築科　縁日<br>場所：建築1教室(本館４階)</th></tr>
+<tr><td><img src="img/a1c.png"></td></tr>
+</table>
+
+
+
+
+
+<hr>
+<h3>2年生</h3>
+
+<table>
+<tr><th>工業化学　喫茶店<br>場所：工化2教室(本館4F)</th></tr>
+<tr><td><img src="img/s2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械2A　売店<br>場所：機2A教室(本館4F)</th></tr>
+<tr><td><img src="img/ma2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械2B　売店<br>場所：機2B教室(本館4F)</th></tr>
+<tr><td><img src="img/mb2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気2A　占い<br>場所：電2A教室(本館4F)</th></tr>
+<tr><td><img src="img/ea2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気2B　お化け屋敷br>場所：電2B教室(本館3F)</th></tr>
+<tr><td><img src="img/eb2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>情報技術科　喫茶店<br>場所：情報2教室(本館3F)</th></tr>
+<tr><td><img src="img/i2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>土木科　遊技場<br>場所：土木2教室(本館3F)</th></tr>
+<tr><td><img src="img/c2c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>建築科　売店<br>場所：建築2教室(本館3F)</th></tr>
+<tr><td><img src="img/a2c.png"></td></tr>
+</table>
+
+
+<hr>
+<h3>3年生</h3>
+
+<table>
+<tr><th>工業化学　休憩所<br>場所：工化3教室(本館3F)</th></tr>
+<tr><td><img src="img/s3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械3A　休憩所<br>場所：機3A教室(本館3F)</th></tr>
+<tr><td><img src="img/ma3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>機械3B　遊技場<br>場所：機3B教室(本館3F)</th></tr>
+<tr><td><img src="img/mb3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気3A　遊技場<br>場所：電3A教室(本館3F)</th></tr>
+<tr><td><img src="img/ea3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>電気3B　遊技場<br>場所：電3B教室(本館3F)</th></tr>
+<tr><td><img src="img/eb3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>情報科　休憩所<br>場所：情報3教室(本館3F)</th></tr>
+<tr><td><img src="img/i3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>土木科　休憩所<br>場所：土木3教室(本館3F)</th></tr>
+<tr><td><img src="img/c3c.png"></td></tr>
+</table>
+
+<table>
+<tr><th>建築科　遊技場<br>場所：建築3教室(本館3F)</th></tr>
+<tr><td><img src="img/a3c.png"></td></tr>
+</table>
+
+
+</article>
+
+<script>footer();</script>
+</body>
+</html>

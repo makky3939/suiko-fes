@@ -1,0 +1,39 @@
+<!doctyp html> <!--Copyright 2012 茨城県立水戸工業高等学校 All Rights Reserved.-->
+
+<html>
+
+<head>
+		<title>ご案内・注意事項：水工祭</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/headfoot.js"></script>
+</head>
+
+<body>
+<script>header();</script>
+
+<article>
+<h2>ご案内</h2>
+<ol>
+<li>病人、けが人の応急処置は、本館１階保健室にお願いします
+<li>緊急時には慌てず行動してください
+</ol>
+
+<hr>
+
+<h2>注意事項</h2>
+<ol>
+<li>校内は禁煙となっていますので喫煙はお控えください
+<li>ごみは分別してくずかごへお捨てください
+<li>スリッパをお使いの場合は、所定の場所へお返しください
+</ol>
+
+
+
+
+</article>
+
+<script>footer();</script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!doctyp html> <!--Copyright 2012 茨城県立水戸工業高等学校 All Rights Reserved.-->
+
+<html>
+
+<head>
+		<title>校内略図：水工祭</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/headfoot.js"></script>
+</head>
+
+<body>
+<script>header();</script>
+
+<article>
+<h2>クラス企画一覧表</h2>
+
+<hr>
+
+<h3>1年生</h3>
+<table>
+	<tr><th>学科</th><th>屋台企画</th><th>クラス企画</th></tr>
+	
+	<tr><td>工業化学</td><td>うどん屋「としちゃん?」</td><td>お化け屋敷「聖幽悪の十字架」</td></tr>
+	<tr><td>機械A</td><td>シチューと味噌田楽</td><td>ストラックアウトCafe</td></tr>
+	<tr><td>機械B</td><td>ポップコーン</td><td>ロケットストーブ</td></tr>
+	<tr><td>電気A</td><td>7色じゃがバター</td><td>ミニチュア水戸アートタワーによるイルミネーション展示</td></tr>
+	<tr><td>電気B</td><td>お菓子</td><td>クイズ</td></tr>
+	<tr><td>情報技術</td><td></td><td>おどる大縁日祭　～縁日は情報科でおきている～</td></tr>
+	<tr><td>土木</td><td>ポップコーン屋</td><td>リフレッシュコーナー</td></tr>
+	<tr><td>建築</td><td>B＆T(Banana＆Tapioka)</td><td>縁日</td></tr>	
+</table>
+
+<hr>
+<h3>2年生</h3>
+<table>
+	<tr><th>学科</th><th>屋台企画</th><th>クラス企画</th></tr>
+	
+	<tr><td>工業化学</td><td>肉とうどんと時々ホルモン</td><td>BAR　MASATO</td></tr>
+	<tr><td>機械A</td><td>ザ・沖縄</td><td>機械世界</td></tr>
+	<tr><td>機械B</td><td>くまさんのパンケーキ屋</td><td>くまさんのパンケーキ屋2号店</td></tr>
+	<tr><td>電気A</td><td>ふるふるポテト</td><td>フィーリングカップル</td></tr>
+	<tr><td>電気B</td><td>スナック村田</td><td>お化け屋敷</td></tr>
+	<tr><td>情報技術</td><td>フランクフルト！</td><td>ゲーム喫茶</td></tr>
+	<tr><td>土木</td><td>チョコバナナ</td><td>土木フレンドパーク</td></tr>
+	<tr><td>建築</td><td>現場のカレー屋さん</td><td>タピっちゃう？タピっちゃお?/歓迎門作成</td></tr>	
+</table>
+
+<hr>
+<h3>3年生</h3>
+<table>
+	<tr><th>学科</th><th>屋台企画</th><th>クラス企画</th></tr>
+	
+	<tr><td>工業化学</td><td>からポテfeat.ばけがく</td><td>徹子の部屋</td></tr>
+	<tr><td>機械A</td><td>フランクフルトとからあげ屋</td><td>休憩所</td></tr>
+	<tr><td>機械B</td><td>やきそば</td><td>ゲームセンター</td></tr>
+	<tr><td>電気A</td><td>ヌードル屋</td><td>ゲームスポット</td></tr>
+	<tr><td>電気B</td><td>焼き鳥</td><td>遊び場</td></tr>
+	<tr><td>情報技術</td><td>御前山ラーメン</td><td>憩いの場</td></tr>
+	<tr><td>土木</td><td>モツ煮</td><td>休憩所ストラックアウト</td></tr>
+	<tr><td>建築</td><td>豚汁</td><td>ウイイレ大会とプラネタリウム</td></tr>	
+</table>
+
+
+
+
+
+</article>
+
+<script>footer();</script>
+</body>
+</html>

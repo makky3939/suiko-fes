@@ -1,0 +1,71 @@
+<!doctyp html> <!--Copyright 2012 茨城県立水戸工業高等学校 All Rights Reserved.-->
+
+<html>
+
+<head>
+		<title>体育館催事スケジュール：水工祭</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/headfoot.js"></script>
+</head>
+
+<body>
+<script>header();</script>
+
+<article>
+<h2>体育館催事スケジュール</h2>
+一般公開は<br>
+1日目 12:30 - 15:00<br>
+2日目  9:30 - 15:00<br>
+です 
+<hr>
+
+<h3>11/3　1日目</h3>
+
+<table>
+
+<tr><th>時刻</th><th>催事内容</th></tr>
+
+<tr><td>8:50</td><td>全校生徒体育館集合 出欠確認</td></tr>
+<tr><td>9:00</td><td>開会式<br><li>学校長挨拶<li>実行委員長挨拶<li>諸注意・連絡</td></tr>
+<tr><td>9:20</td><td>校内スピーチ大会</td></tr>
+<tr><td>10:00</td><td>公開準備<br>(この間体育館は公演リハーサル)</td></tr>
+<tr><td>12:30</td><td>一般公開開始<br>バンド・フェスティバル</td></tr>
+<tr><td>12:30</td><td>1.Crazyパンツ's (30)</td></tr>
+<tr><td>13:00</td><td>2.工業変事 (30)</td></tr>
+<tr><td>13:30</td><td>3.キ3A (30)</td></tr>
+<tr><td>14:00</td><td>終演</td></tr>
+<tr><td>15:00</td><td>一日目公開終了</td></tr>
+<tr><td>15:30</td><td>全体終了</td></tr>
+
+</table>
+
+<hr>
+
+<h3>11/4　2日目</h3>
+
+<table>
+
+<tr><th>時刻</th><th>催事内容</th></tr>
+
+<tr><td>8:50</td><td>全校生徒体育館集合 出欠確認</td></tr>
+<tr><td>9:00</td><td>公開準備<br>(この間体育館は公演リハーサル)</td></tr>
+<tr><td>9:30</td><td>一般公開開始</td></tr>
+<tr><td>10:00</td><td>バンドフェスティバル</td></tr>
+<tr><td>10:30</td><td>1.Palette (30)</td></tr>
+<tr><td>11:00</td><td>2.ラストスペル (30)</td></tr>
+<tr><td>11:30</td><td>3.Innocent (30)</td></tr>
+<tr><td>12:00</td><td>終演</td></tr>
+<tr><td>12:15</td><td>自動車部(自動車展示)</td></tr>
+<tr><td>14:00</td><td>展示終了</td></tr>
+<tr><td>15:00</td><td>第２日目公開終了</td></tr>
+<tr><td>15:30</td><td>閉会式</td></tr
+<tr><td>15:45</td><td>SHR</td></tr>
+</table>
+
+</article>
+
+<script>footer();</script>
+</body>
+</html>
